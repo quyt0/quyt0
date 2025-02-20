@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there! 👋  
 
-<!--
-**quyt0/quyt0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer who enjoys exploring various aspects of technology. Here’s a bit about me:  
 
-Here are some ideas to get you started:
+## 🚀 About Me  
+- 🌐 I can build web applications using **HTML, CSS, JavaScript, Astro, and Jekyll**.  
+- 🎯 I'm currently studying at **PTIT** and improving my **cybersecurity skills**.  
+- 🕵️‍♂️ I enjoy solving **CTF challenges**, especially in **reverse engineering, web security, and OSINT**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools  
+- **Languages:** C++, JavaScript, PHP, Java  
+- **Frameworks & Libraries:** Astro, Jekyll, jQuery  
+- **Other Tools:** Docker, VSCode, Sublime Text, Notepad, Paper :v  
+- **Computer:** Asus OLED 15.6"  
+- **Music:** Guitar Rosen G12  
+
+## 📫 Connect with Me  
+- **GitHub:** [quyt0](https://github.com/quyt0)  
+- **Website:** [cuyt.net](https://cuyt.net)  
