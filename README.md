@@ -1,6 +1,6 @@
 # Hi there! 👋  
 
-I'm a developer who enjoys exploring various aspects of technology. Here’s a bit about me:  
+I'm Cuýt, I enjoys exploring various aspects of technology. Here’s a bit about me:  
 
 ## 🚀 About Me  
 - 🌐 I can build web applications using **HTML, CSS, JavaScript, Astro, and Jekyll**.  
