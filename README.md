@@ -1,7 +1,5 @@
 # Hi there! 👋  
 
-https://drive.google.com/drive/folders/1kdH-tf8QkU3S8Ny7hfW_kHMXkytumBlw?usp=sharing
-
 I'm Cuýt, I enjoys exploring various aspects of technology. Here’s a bit about me:  
 
 ## 🚀 About Me  
