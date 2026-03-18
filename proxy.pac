@@ -7,5 +7,5 @@ function FindProxyForURL(url, host) {
         return "DIRECT";
     }
 
-    return "PROXY 113.22.123.95:8080; DIRECT";
+    return "PROXY cuytok.ddns.net:8080; DIRECT";
 }
