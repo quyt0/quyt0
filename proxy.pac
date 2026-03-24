@@ -7,5 +7,5 @@ function FindProxyForURL(url, host) {
         return "DIRECT";
     }
 
-    return "PROXY mitm.izcuyt.com:8080; DIRECT";
+    return "PROXY mitm.izcuyt.com:80; DIRECT";
 }
