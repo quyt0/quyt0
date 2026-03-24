@@ -7,5 +7,5 @@ function FindProxyForURL(url, host) {
         return "DIRECT";
     }
 
-    return "PROXY ubuntuofcuyt.tail4f65a4.ts.net:443; DIRECT";
+    return "PROXY cuytok.ddns.net:8080; DIRECT";
 }
