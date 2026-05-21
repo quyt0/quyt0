@@ -1,10 +1,14 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F70000&center=true&lines=Hi+there%2C+it's+Cu%C3%BDt;Welcome+to+my+GitHub;I'm+an+aspiring+cybersecurity+professional" alt="Typing SVG" /></a>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F70000&center=true&vCenter=true&width=800&lines=Hi+there%2C+it's+Cu%C3%BDt;Welcome+to+my+GitHub;I'm+an+aspiring+cybersecurity+professional" alt="Typing SVG" />
+  </a>
+</div>
 
 ---
 
 My name is Doan Duy Phuc (often known as Cuýt), an Information Security student with a huge passion for cybersecurity, bug hunting, and... Bún bò! 🍜  
 
-## 🚀 About Me  
+## 🍊 About Me  
 - 🎓 I'm currently studying **Information Security** at **Posts and Telecommunications Institute of Technology (PTIT)** in Hanoi.  
 - 🛡️ My main focus is **Cybersecurity**, specifically **Web Pentesting, Vulnerability Research, Digital Forensics**, and grinding **CTF challenges**.  
 - 🌐 I *used to* build web applications using HTML, CSS, JavaScript, Astro, and Jekyll. Nowadays, I mostly tinker with **Hugo** to build and maintain my personal blog.  
@@ -20,11 +24,6 @@ My name is Doan Duy Phuc (often known as Cuýt), an Information Security student
 ## 📫 Connect with Me  
 - **GitHub:** [quyt0](https://github.com/quyt0)  
 - **Website/Blog:** [cuyt.net](https://cuyt.net) | [bunbo.izcuyt.com](https://bunbo.izcuyt.com)
-
-## 🐍 My Contributions 🐍
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <br/>
   
 ---
 
