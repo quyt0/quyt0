@@ -30,7 +30,6 @@ My name is Doan Duy Phuc (often known as Cuýt), an Information Security student
 ## 📈 GitHub Stats
 
 <p align="center">  
-<img src="https://github-readme-stats.vercel.app/api?username=quyt0&show_icons=true&theme=tokyonight&hide_border=true&icon_color=8A2BE2&title_color=8A2BE2&text_color=8A2BE2&bg_color=0D1117" width="48%">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=quyt0&theme=tokyonight&hide_border=true&background=0D1117&stroke=8A2BE2&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" width="48%">
 
   
