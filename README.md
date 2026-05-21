@@ -1,6 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F70000&center=true&width=435&lines=Hi+there%2C+it's+Cu%C3%BDt;Welcome+to+my+GitHub;I'm+an+aspiring+cybersecurity+professional)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F70000&center=true&width=435&lines=Hi+there%2C+it's+Cu%C3%BDt;Welcome+to+my+GitHub;I'm+an+aspiring+cybersecurity+professional" alt="Typing SVG" /></a>
 
-I'm Doãn Duy Phúc (often known as Cuýt), an Information Security student with a huge passion for cybersecurity, bug hunting, and... Bún bò! 🍜  
+---
+
+My name is Doan Duy Phuc (often known as Cuýt), an Information Security student with a huge passion for cybersecurity, bug hunting, and... Bún bò! 🍜  
 
 ## 🚀 About Me  
 - 🎓 I'm currently studying **Information Security** at **Posts and Telecommunications Institute of Technology (PTIT)** in Hanoi.  
