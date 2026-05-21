@@ -18,3 +18,22 @@ I'm Doãn Duy Phúc (often known as Cuýt), an Information Security student with
 ## 📫 Connect with Me  
 - **GitHub:** [quyt0](https://github.com/quyt0)  
 - **Website/Blog:** [cuyt.net](https://cuyt.net) | [bunbo.izcuyt.com](https://bunbo.izcuyt.com)
+
+## 🐍 My Contributions 🐍
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <br/>
+  
+---
+
+## 📈 GitHub Stats
+
+<p align="center">  
+<img src="https://github-readme-stats.vercel.app/api?username=longhd05&show_icons=true&theme=tokyonight&hide_border=true&icon_color=8A2BE2&title_color=8A2BE2&text_color=8A2BE2&bg_color=0D1117" width="48%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=longhd05&theme=tokyonight&hide_border=true&background=0D1117&stroke=8A2BE2&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" width="48%">
+
+  
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=longhd05&theme=tokyonight"/>
+
+
+</p>
