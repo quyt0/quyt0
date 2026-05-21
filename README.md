@@ -23,7 +23,7 @@ My name is Doan Duy Phuc (often known as Cuýt), an Information Security student
 
 ## 📫 Connect with Me  
 - **GitHub:** [quyt0](https://github.com/quyt0)  
-- **Website/Blog:** [cuyt.net](https://cuyt.net) | [bunbo.izcuyt.com](https://bunbo.izcuyt.com)
+- **Website/Blog:** [izcuyt.com](https://izcuyt.com) | [bunbo.izcuyt.com](https://bunbo.izcuyt.com)
   
 ---
 
