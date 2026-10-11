@@ -1,242 +1,238 @@
-#EXTM3U LIST IPTV FPT 118CH edited by binhhc 11-6-2026 (0933126888)
+#EXTM3U url-tvg="http://epg.blaosolar.vn/schedule/epg.xml" tvg-shift=0 m3uautoload=1
 
-#EXTINF:0,001: VTV1
+#EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg" group-title="VTV", VTV1
 udp://@225.1.2.249:30120
-#EXTINF:0,002: VTV2 
+#EXTINF:-1 tvg-id="vtv2hd" tvg-logo="https://i.ytimg.com/vi/Cim-egsLkqw/maxresdefault.jpg" group-title="VTV", VTV2
 udp://@225.1.2.13:30120
-#EXTINF:0,003: VTV3 
+#EXTINF:-1 tvg-id="vtv3hd" tvg-logo="https://i.ytimg.com/vi/4jr8Y13NSME/maxresdefault.jpg" group-title="VTV", VTV3
 udp://@225.1.2.247:30120
-#EXTINF:0,004: VTV4 
+#EXTINF:-1 tvg-id="vtv4hd" tvg-logo="https://i.ytimg.com/vi/Opv4PmUyi8g/maxresdefault.jpg" group-title="VTV", VTV4
 udp://@225.1.2.20:30120
-#EXTINF:0,005: VTV5 
+#EXTINF:-1 tvg-id="vtv5hd" tvg-logo="https://s12811.cdn.mytvnet.vn/vimages/b5/5c/cc/c2/22/29/b5cc2-pvtv5hd-channel-unkn.png" group-title="VTV", VTV5
 udp://@225.1.1.131:30120
-#EXTINF:0,006: VTV5-TNB 
+#EXTINF:-1 tvg-id="vtv5hdtnb" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/maxresdefault.jpg" group-title="VTV", VTV5 Tây Nam Bộ
 udp://@225.1.2.236:30120
-#EXTINF:0,007: VTV5-TN 
+#EXTINF:-1 tvg-id="vtv5hdtn" tvg-logo="https://s7730.cdn.mytvnet.vn/vimages/d4/46/61/1c/cf/f6/d461c-pvtv5tynguynhd-channel-unkn.png" group-title="VTV", VTV5 Tây Nguyên
 udp://@225.1.1.108:30120
-#EXTINF:0,008: VTV6 
+#EXTINF:-1 tvg-id="vtv6hd" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/VTV6.png" group-title="VTV", VTV6
 udp://@225.1.2.154:30120
-#EXTINF:0,009: VTV7 
+#EXTINF:-1 tvg-id="vtv7hd" tvg-logo="https://i.ytimg.com/vi/hWt5JN_B66Y/maxresdefault.jpg" group-title="VTV", VTV7
 udp://@225.1.2.96:30120
-#EXTINF:0,010: VTV8 
+#EXTINF:-1 tvg-id="vtv8hd" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/vtv8.jpg" group-title="VTV", VTV8
 udp://@225.1.2.166:30120
-#EXTINF:0,011: VTV9 
+#EXTINF:-1 tvg-id="vtv9hd" tvg-logo="https://i.ytimg.com/vi/APl10jiVAlQ/maxresdefault.jpg" group-title="VTV", VTV9
 udp://@225.1.1.128:30120
-#EXTINF:0,012: VTV10
+#EXTINF:-1 tvg-id="vtv10hd" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/VTV10.png" group-title="VTV", VTV10
 udp://@225.1.2.245:30120
-#EXTINF:0,013: QPVN 
+#EXTINF:-1 group-title="Trong Nước", QPVN
 udp://@225.1.2.217:30120
-#EXTINF:0,014: ANTV 
+#EXTINF:-1 group-title="Trong Nước", ANTV
 udp://@225.1.2.169:30120
-#EXTINF:0,015: ANVIEN 
+#EXTINF:-1 group-title="Trong Nước", ANVIEN
 udp://@225.1.2.189:30120
-#EXTINF:0,016: VIETNAM-TODAY 
+#EXTINF:-1 tvg-id="vietnamtoday" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/VietnamToday.jpg" group-title="Trong Nước", VIETNAM-TODAY
 udp://@225.1.2.190:30120
-#EXTINF:0,017: HA NOI 1 
+#EXTINF:-1 group-title="Địa Phương", HA NOI 1
 udp://@225.1.2.186:30120
-#EXTINF:0,018: HTV1
+#EXTINF:-1 group-title="HTV", HTV1
 udp://@225.1.1.180:30120
-#EXTINF:0,019: HTV2
+#EXTINF:-1 group-title="HTV", HTV2
 udp://@225.1.1.193:30120
-#EXTINF:0,020: HTV3
+#EXTINF:-1 group-title="HTV", HTV3
 udp://@225.1.1.178:30120
-#EXTINF:0,021: HTV4 KEYS
+#EXTINF:-1 group-title="HTV", HTV4 KEYS
 udp://@225.1.1.177:30120
-#EXTINF:0,022: HTV7
+#EXTINF:-1 group-title="HTV", HTV7
 udp://@225.1.1.192:30120
-#EXTINF:0,023: HTV9
+#EXTINF:-1 group-title="HTV", HTV9
 udp://@225.1.1.190:30120
-#EXTINF:0,024: HTV_THETHAO
+#EXTINF:-1 tvg-id="htvthethaohd" tvg-logo="https://img.lichphatsong.xyz/logo/htvthethaohd.jpg" group-title="HTV", HTV_THETHAO
 udp://@225.1.1.165:30120
-#EXTINF:0,025: AM NHAC (htvc.vn)
+#EXTINF:-1 group-title="HTVC", AM NHAC (htvc.vn)
 udp://@225.1.1.185:30120
-#EXTINF:0,026: DU LICH & CUOC SONG
+#EXTINF:-1 group-title="HTVC", DU LICH & CUOC SONG
 udp://@225.1.1.166:30120
-#EXTINF:0,027: HTVC_GIA DINH
+#EXTINF:-1 group-title="HTVC", HTVC_GIA DINH
 udp://@225.1.1.170:30120
-#EXTINF:0,028: HTVC_PHIM
+#EXTINF:-1 group-title="HTVC", HTVC_PHIM
 udp://@225.1.1.184:30120
-#EXTINF:0,029: HTVC_PHU NU
+#EXTINF:-1 group-title="HTVC", HTVC_PHU NU
 udp://@225.1.1.171:30120
-#EXTINF:0,030: HTVC_THUAN VIET
+#EXTINF:-1 group-title="HTVC", HTVC_THUAN VIET
 udp://@225.1.1.186:30120
-#EXTINF:0,031: C+ (htvc.vn)
+#EXTINF:-1 group-title="HTVC", C+ (htvc.vn)
 udp://@225.1.1.181:30120
-#EXTINF:0,032: SCTV6
+#EXTINF:-1 tvg-id="sctv6hd" tvg-logo="https://i.postimg.cc/PqcqqxhT/FIM360-logo.webp" group-title="SCTV", SCTV6 - FIM360
 udp://@225.1.1.188:30120
-#EXTINF:0,033: FPT GTCT
+#EXTINF:-1 group-title="Trong Nước", FPT GTCT
 udp://@225.1.1.2:30120
-#EXTINF:0,034: CAO BANG
+#EXTINF:-1 group-title="Địa Phương", CAO BANG
 udp://@225.1.1.102:30120
-#EXTINF:0,035: LAO CAI
+#EXTINF:-1 group-title="Địa Phương", LAO CAI
 udp://@225.1.1.119:30120
-#EXTINF:0,036: LAI CHAU
+#EXTINF:-1 group-title="Địa Phương", LAI CHAU
 udp://@225.1.2.36:30120
-#EXTINF:0,037: SON LA
+#EXTINF:-1 group-title="Địa Phương", SON LA
 udp://@225.1.1.98:30120
-#EXTINF:0,038: DIEN BIEN
+#EXTINF:-1 group-title="Địa Phương", DIEN BIEN
 udp://@225.1.1.74:30120
-#EXTINF:0,039: TUYEN QUANG 
+#EXTINF:-1 group-title="Địa Phương", TUYEN QUANG
 udp://@225.1.2.188:30120
-#EXTINF:0,040: PHU THO
+#EXTINF:-1 group-title="Địa Phương", PHU THO
 udp://@225.1.2.165:30120
-#EXTINF:0,041: THAI NGUYEN
+#EXTINF:-1 group-title="Địa Phương", THAI NGUYEN
 udp://@225.1.2.179:30120
-#EXTINF:0,042: BAC NINH
+#EXTINF:-1 group-title="Địa Phương", BAC NINH
 udp://@225.1.1.164:30120
-#EXTINF:0,043: LANG SON
+#EXTINF:-1 group-title="Địa Phương", LANG SON
 udp://@225.1.1.160:30120
-#EXTINF:0,044: QUANG NINH 1
+#EXTINF:-1 group-title="Địa Phương", QUANG NINH 1
 udp://@225.1.2.181:30120
-#EXTINF:0,045: QUANG NINH 3
+#EXTINF:-1 group-title="Địa Phương", QUANG NINH 3
 udp://@225.1.2.180:30120
-#EXTINF:0,046: HAI PHONG
+#EXTINF:-1 tvg-id="haiphong" tvg-logo="https://i.imgur.com/StFk4PA.png" group-title="Địa Phương", HAI PHONG
 udp://@225.1.1.44:30120
-#EXTINF:0,047: HUNG YEN
+#EXTINF:-1 group-title="Địa Phương", HUNG YEN
 udp://@225.1.1.118:30120
-#EXTINF:0,048: NINH BINH
+#EXTINF:-1 group-title="Địa Phương", NINH BINH
 udp://@225.1.2.185:30120
-#EXTINF:0,049: THANH HOA
+#EXTINF:-1 group-title="Địa Phương", THANH HOA
 udp://@225.1.2.184:30120
-#EXTINF:0,050: NGHE AN
+#EXTINF:-1 group-title="Địa Phương", NGHE AN
 udp://@225.1.2.183:30120
-#EXTINF:0,051: HA TINH
+#EXTINF:-1 group-title="Địa Phương", HA TINH
 udp://@225.1.1.75:30120
-#EXTINF:0,052: QUANG TRI
+#EXTINF:-1 group-title="Địa Phương", QUANG TRI
 udp://@225.1.1.117:30120
-#EXTINF:0,053: HUE
+#EXTINF:-1 group-title="Địa Phương", HUE
 udp://@225.1.1.161:30120
-#EXTINF:0,054: DN1-RTV
+#EXTINF:-1 group-title="Địa Phương", DN1-RTV
 udp://@225.1.1.152:30120
-#EXTINF:0,055: DN2-RTV
+#EXTINF:-1 group-title="Địa Phương", DN2-RTV
 udp://@225.1.1.151:30120
-#EXTINF:0,056: DA NANG TV1
+#EXTINF:-1 group-title="Địa Phương", DA NANG TV1
 udp://@225.1.1.147:30120
-#EXTINF:0,057: DA NANG TV2
+#EXTINF:-1 group-title="Địa Phương", DA NANG TV2
 udp://@225.1.1.146:30120
-#EXTINF:0,058: DAKLAK
+#EXTINF:-1 group-title="Địa Phương", DAKLAK
 udp://@225.1.1.64:30120
-#EXTINF:0,059: QUANG NGAI 1
+#EXTINF:-1 group-title="Địa Phương", QUANG NGAI 1
 udp://@225.1.2.174:30120
-#EXTINF:0,060: QUANG NGAI 2
+#EXTINF:-1 group-title="Địa Phương", QUANG NGAI 2
 udp://@225.1.1.36:30120
-#EXTINF:0,061: LAM DONG 1
+#EXTINF:-1 group-title="Địa Phương", LAM DONG 1
 udp://@225.1.2.177:30120
-#EXTINF:0,062: LAM DONG 2
+#EXTINF:-1 group-title="Địa Phương", LAM DONG 2
 udp://@225.1.1.124:30120
-#EXTINF:0,063: KHANH HOA
+#EXTINF:-1 group-title="Địa Phương", KHANH HOA
 udp://@225.1.1.133:30120
-#EXTINF:0,064: KHANH HOA 1
+#EXTINF:-1 group-title="Địa Phương", KHANH HOA 1
 udp://@225.1.2.178:30120
-#EXTINF:0,065: GIA LAI
+#EXTINF:-1 group-title="Địa Phương", GIA LAI
 udp://@225.1.1.145:30120
-#EXTINF:0,066: DONG NAI 1
+#EXTINF:-1 group-title="Địa Phương", DONG NAI 1
 udp://@225.1.1.152:30120
-#EXTINF:0,067: DONG NAI 2 
+#EXTINF:-1 group-title="Địa Phương", DONG NAI 2
 udp://@225.1.1.151:30120
-#EXTINF:0,068: VINH LONG 1 
+#EXTINF:-1 group-title="Địa Phương", VINH LONG 1
 udp://@225.1.1.155:30120
-#EXTINF:0,069: VINH LONG 2 
+#EXTINF:-1 group-title="Địa Phương", VINH LONG 2
 udp://@225.1.1.154:30120
-#EXTINF:0,070: VINH LONG 3 
+#EXTINF:-1 group-title="Địa Phương", VINH LONG 3
 udp://@225.1.1.235:30120
-#EXTINF:0,071: VINH LONG 4 
+#EXTINF:-1 group-title="Địa Phương", VINH LONG 4
 udp://@225.1.2.25:30120
-#EXTINF:0,072: VINH LONG 5 
+#EXTINF:-1 group-title="Địa Phương", VINH LONG 5
 udp://@225.1.2.172:30120
-#EXTINF:0,073: CAN THO 1
+#EXTINF:-1 group-title="Địa Phương", CAN THO 1
 udp://@225.1.1.132:30120
-#EXTINF:0,074: CAN THO 2 
+#EXTINF:-1 group-title="Địa Phương", CAN THO 2
 udp://@225.1.1.157:30120
-#EXTINF:0,075: CAN THO 3
+#EXTINF:-1 group-title="Địa Phương", CAN THO 3
 udp://@225.1.1.159:30120
-#EXTINF:0,076: TAY NINH
+#EXTINF:-1 group-title="Địa Phương", TAY NINH
 udp://@225.1.1.162:30120
-#EXTINF:0,077: DONG THAP
+#EXTINF:-1 group-title="Địa Phương", DONG THAP
 udp://@225.1.1.163:30120
-#EXTINF:0,078: AN GIANG 1
+#EXTINF:-1 group-title="Địa Phương", AN GIANG 1
 udp://@225.1.2.182:30120
-#EXTINF:0,079: AN GIANG 2
+#EXTINF:-1 group-title="Địa Phương", AN GIANG 2
 udp://@225.1.2.173:30120
-#EXTINF:0,080: CA MAU 
+#EXTINF:-1 group-title="Địa Phương", CA MAU
 udp://@225.1.1.104:30120
-#EXTINF:0,081: ABC AUSTRALIA
+#EXTINF:-1 tvg-id="abcaustralia" tvg-logo="https://i.imgur.com/qQ33TVM.png" group-title="Quốc Tế", ABC AUSTRALIA
 udp://@225.1.2.21:30120
-#EXTINF:0,082: AFN
+#EXTINF:-1 tvg-id="afnhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/960px-Asian_Food_Network.svg.png" group-title="Quốc Tế", AFN
 udp://@225.1.1.198:30120
-#EXTINF:0,083: ANIMAL PLANET
+#EXTINF:-1 tvg-id="animalhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" group-title="Quốc Tế", ANIMAL PLANET
 udp://@225.1.1.231:30120
-#EXTINF:0,084: A_cna
+#EXTINF:-1 tvg-id="cna" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5a/CNA_logo.png/revision/latest?cb=20211220035948&path-prefix=vi" group-title="Quốc Tế", Channel News Asia (A_cna)
 udp://@225.1.4.76:30120
-#EXTINF:0,085: ARRIANG
+#EXTINF:-1 tvg-id="arirang" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="Quốc Tế", ARIRANG
 udp://@225.1.1.201:30120
-#EXTINF:0,086: AXN
+#EXTINF:-1 group-title="Quốc Tế", AXN
 udp://@225.1.2.225:30120
-#EXTINF:0,087: BABY FIRST
+#EXTINF:-1 group-title="Quốc Tế", BABY FIRST
 udp://@225.1.1.136:30120
-#EXTINF:0,088: BBC CBEEBIES
+#EXTINF:-1 group-title="Quốc Tế", BBC CBEEBIES
 udp://@225.1.1.134:30120
-#EXTINF:0,089: BBC EARTH
+#EXTINF:-1 group-title="Quốc Tế", BBC EARTH
 udp://@225.1.2.24:30120
-#EXTINF:0,090: BBC LIFESTYLE
+#EXTINF:-1 group-title="Quốc Tế", BBC LIFESTYLE
 udp://@225.1.2.52:30120
-#EXTINF:0,091: BBC WORLD NEWS
+#EXTINF:-1 tvg-id="bbcworldnews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/960px-BBC_News_2022_%28Alt%29.svg.png" group-title="Quốc Tế", BBC WORLD NEWS
 udp://@225.1.2.74:30120
-#EXTINF:0,092: BOOMERANG
+#EXTINF:-1 group-title="Quốc Tế", BOOMERANG
 udp://@225.1.1.138:30120
-#EXTINF:0,093: BLOOMBERG
+#EXTINF:-1 tvg-id="bloomberg" tvg-logo="https://i.imgur.com/R7FCaB5.png" group-title="Quốc Tế", BLOOMBERG
 udp://@225.1.2.91:30120
-#EXTINF:0,094: CARTOON NETWORK
+#EXTINF:-1 tvg-id="cartoonhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Quốc Tế", CARTOON NETWORK
 udp://@225.1.2.231:30120
-#EXTINF:0,095: CINEMA WORLD
+#EXTINF:-1 group-title="Quốc Tế", CINEMA WORLD
 udp://@225.1.1.142:30120
-#EXTINF:0,096: CINEMAX
+#EXTINF:-1 group-title="Quốc Tế", CINEMAX
 udp://@225.1.2.86:30120
-#EXTINF:0,097: CNBC_TOP NEW
+#EXTINF:-1 tvg-id="cnbc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png" group-title="Quốc Tế", CNBC_TOP NEW
 udp://@225.1.1.227:30120
-#EXTINF:0,098: CNN
+#EXTINF:-1 tvg-id="cnn" tvg-logo="https://dtil.tmsimg.com/assets/s157679_ld_h15_aa.png?lock=720x540" group-title="Quốc Tế", CNN
 udp://@225.1.1.242:30120
-#EXTINF:0,099: CHANNEL NEWS ASIA
+#EXTINF:-1 tvg-id="cna" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5a/CNA_logo.png/revision/latest?cb=20211220035948&path-prefix=vi" group-title="Quốc Tế", CHANNEL NEWS ASIA
 udp://@225.1.1.202:30120
-#EXTINF:0,100: DA VINCI
+#EXTINF:-1 tvg-id="davinci" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Da_Vinci_Primary_Logo_RGB_Red_AW_copy.svg/960px-Da_Vinci_Primary_Logo_RGB_Red_AW_copy.svg.png" group-title="Quốc Tế", DA VINCI
 udp://@225.1.1.197:30120
-#EXTINF:0,101: DISCOVERY ASIA
+#EXTINF:-1 group-title="Quốc Tế", DISCOVERY ASIA
 udp://@225.1.2.223:30120
-#EXTINF:0,102: DISCOVERY CHANNEL
+#EXTINF:-1 tvg-id="discoveryhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" group-title="Quốc Tế", DISCOVERY CHANNEL
 udp://@225.1.1.238:30120
-#EXTINF:0,103: DREAM WORKS
+#EXTINF:-1 tvg-id="dreamworks" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/960px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png" group-title="Quốc Tế", DREAM WORKS
 udp://@225.1.1.136:30120
-#EXTINF:0,104: DOLIFE HOSPITAL
+#EXTINF:-1 group-title="Kênh Địa Phương", DOLIFE HOSPITAL
 udp://@225.1.1.127:30120
-#EXTINF:0,105: DW
+#EXTINF:-1 tvg-id="dw" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="Quốc Tế", DW
 udp://@225.1.1.46:30120
-#EXTINF:0,106: FASHIONTV
+#EXTINF:-1 tvg-id="fashionhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/960px-Fashion_TV_logo.svg.png" group-title="Quốc Tế", FASHIONTV
 udp://@225.1.2.227:30120
-#EXTINF:0,107: FRANCE
+#EXTINF:-1 tvg-id="france24eng" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/France_24_logo_%282013%29.svg/960px-France_24_logo_%282013%29.svg.png" group-title="Quốc Tế", FRANCE
 udp://@225.1.2.211:30120
-#EXTINF:0,108: GRAND PHOENIX HOTEL
+#EXTINF:-1 group-title="Kênh Khách Sạn", GRAND PHOENIX HOTEL
 udp://@225.1.1.66:30120
-#EXTINF:0,109: HBO
+#EXTINF:-1 group-title="Quốc Tế", HBO
 udp://@225.1.2.233:30120
-#EXTINF:0,110: KBS WORLD
+#EXTINF:-1 tvg-id="kbsworld" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/960px-KBS_World_%282009%29.svg.png" group-title="Quốc Tế", KBS WORLD
 udp://@225.1.1.196:30120
-#EXTINF:0,111: KIX
+#EXTINF:-1 tvg-id="kix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/960px-KIX_logo.svg.png" group-title="Quốc Tế", KIX
 udp://@225.1.2.144:30120
-#EXTINF:0,112: NHK
+#EXTINF:-1 tvg-id="nhkworld" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/NHK_World_Transparent.png" group-title="Quốc Tế", NHK
 udp://@225.1.1.47:30120
-#EXTINF:0,113: OUTDOOR
+#EXTINF:-1 tvg-id="outdoorhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/960px-Outdoor_Channel_logo_2017.svg.png" group-title="Quốc Tế", OUTDOOR
 udp://@225.1.2.215:30120
-#EXTINF:0,114: TLC 
+#EXTINF:-1 group-title="Quốc Tế", TLC
 udp://@225.1.1.236:30120
-#EXTINF:0,115: TV5 MONDE
+#EXTINF:-1 group-title="Quốc Tế", TV5 MONDE
 udp://@225.1.1.200:30120
-#EXTINF:0,116: THE MIRA HOTEL
+#EXTINF:-1 group-title="Kênh Khách Sạn", THE MIRA HOTEL
 udp://@225.1.1.123:30120
-#EXTINF:0,117: THE OCEAN RESORT
+#EXTINF:-1 group-title="Kênh Khách Sạn", THE OCEAN RESORT
 udp://@225.1.1.121:30120
-#EXTINF:0,118: WB TV
+#EXTINF:-1 group-title="Quốc Tế", WB TV
 udp://@225.1.1.139:30120
-
-
-
-
